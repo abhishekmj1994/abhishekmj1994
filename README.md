@@ -9,21 +9,21 @@
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
 ***About Me:***<br>
-I'm a ***Senior Frontend Developer | React Expert***, I also have a strong backend experience and I also have a strong business management background especially in startups. I was a CEO of a tech startup for 3 years and I have 7 years of experience in multiple Fully Remote Work Environments.
+I'm a ***Full Stack Web Developer and Automation Expert|Technical Lead***, I also have a strong backend experience and I also have a strong business management background especially in MNC's. I am a Technical Interviewer also.
 <br>
 <br>
 I'm always eager to learn, open to change my way of thinking and implementing things, open to learning new technologies, frameworks, and development techniques every day!
 <br>
 
 ***My Coding Skills:***<br>
-***React.JS*** | ***Next.JS*** | ***TypeScript*** | ***Redux*** | ***GraphQL*** | ***Styled-Components*** | ***Material UI*** | ***Ant Design*** |  ***Tailwind CSS*** | ***JavaScript*** | HTML | CSS | SASS |  BootStrap | ***Express.JS*** | ***Node.JS*** | SQL | Git | Github | Gitlab | VSCode | Code Linters | Firbase | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Mobile-First Design | Agile | Scrum | Pair-Programming.
+***React.JS*** | ***Next.JS*** | ***TypeScript*** | ***Redux*** | ***GraphQL*** | ***Styled-Components*** | ***Material UI*** | ***Ant Design*** |  ***Tailwind CSS*** | ***JavaScript*** | HTML | CSS | SASS |  BootStrap | ***Express.JS*** | ***Node.JS*** | SQL | Git | Github | Gitlab | VSCode | Code Linters | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Agile | Scrum
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
 
 ***Do I Sound Like a Good Fit For Your Team?***
 <br>
-Get in touch with me at Ahmed-Tohamy@outlook.com or through my linkedIn (link above).
+Get in touch with me at abhishekmajumder052@gmail.com or through my linkedIn (link above).
 
 
 
