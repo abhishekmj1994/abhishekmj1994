@@ -29,20 +29,15 @@ Get in touch with me at abhishekmajumder052@gmail.com or through my linkedIn (li
 
 <p align="center">
   <span align="center" class="d-flex">
+    <img title="PHP" alt="PHP" alt="HTML" height=40 src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
       src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
     <img title="JavaScript" alt="JavaScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img title="TypeScript" alt="TypeScript" height=40
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
     <img title="React.JS" alt="React.js" height=55 src="https://cdn.auth0.com/blog/react-js/react.png">
-    <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg">
     <img title="GraphQL" alt="GraphQL" height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQtVT1CobRyWyfS194FBU0jf8W6eqg7srjSWqgcXRB_K7_qF_YU-gMjVnZeKKgh7lReI&usqp=CAU">
     <img title="Material UI" alt="Material UI" height=40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qvkwyXoEp63-8fLF6wm3bzxqypXoVGXCxaovfVezQNX5SVZVxluRocCTioU5PGtE3IA&usqp=CAU">
-    <img title="Tailwind CSS" alt="TailwindCSS" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/tailwind.png">
-    <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/styled-components2.png">
-    <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Node" alt="Node" height=50 src="https://lh6.googleusercontent.com/proxy/RHjBRTqkFA6mU5L4KbOV8QoVlqCdY960ZfeHJDxaZioSPJFlACaHcmKQOrOwGgKp2St0K9RLAxcVis1U1SEYXAXJAUaJa2XI-la5-4u9pS14ZhiyH_ozLUx0nGSvQwVW93nBYhAf9uyxml4aN5czkslm04D42cfJ=s0-d">
     <img title="Sass" alt="Sass" height=40 src="https://sass-lang.com/assets/img/styleguide/color-1c4aab2b.png">
     <img title="Bootstrap" alt="Bootstrap" height=40
