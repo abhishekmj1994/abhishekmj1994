@@ -16,7 +16,7 @@ I'm always eager to learn, open to change my way of thinking and implementing th
 <br>
 
 ***My Coding Skills:***<br>
-***React.JS*** | ***Next.JS*** | ***TypeScript*** | ***Redux*** | ***GraphQL*** | ***Styled-Components*** | ***Material UI*** | ***Ant Design*** |  ***Tailwind CSS*** | ***JavaScript*** | HTML | CSS | SASS |  BootStrap | ***Express.JS*** | ***Node.JS*** | SQL | Git | Github | Gitlab | VSCode | Code Linters | Heroku | Vercel | Github Pages | REST API | JSON | JSX | Responsive Design | Agile | Scrum
+***PHP*** | ***Shell Scripting UNIX/Linux** | ***JavaScript*** | HTML | CSS | React.JS* |  BootStrap | ***Express.JS*** | ***Node.JS*** | SQL | Git | Github | ***MYSQL*** | VSCode | Code Linters | Heroku | Robto3T | MONGODB | REST API | JSON | JSX | Responsive Design | Agile | Scrum
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
