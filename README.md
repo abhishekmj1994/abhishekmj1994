@@ -1,32 +1,6 @@
 
 ### Hi There 👋, I'm Abhishek Majumder, I'm a Full stack web developer and automation expert and I'm working remotely in Kolkata,Navi Mumbai,India. 
 ### And I'm Open to Job Offers! :tada: 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-majumder-140baa77/)
-[![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abhishekmajumder052@gmail.com)
-<!-- [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/CV/Ahmed%20Tohamy%20Resume%20-%20Web%20Developer%20v2.1.pdf)
--->
-
-<img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
-
-***About Me:***<br>
-I'm a ***Full Stack Web Developer and Automation Expert|Technical Lead***, I also have a strong backend experience and I also have a strong business management background especially in MNC's. I am a Technical Interviewer also.
-<br>
-<br>
-I'm always eager to learn, open to change my way of thinking and implementing things, open to learning new technologies, frameworks, and development techniques every day!
-<br>
-
-***My Coding Skills:***<br>
-***PHP*** | ***Shell Scripting UNIX/Linux** | ***JavaScript*** | HTML | CSS | React.JS* |  BootStrap | ***Express.JS*** | ***Node.JS*** | SQL | Git | Github | ***MYSQL*** | VSCode | Code Linters | Heroku | Robto3T | MONGODB | REST API | JSON | JSX | Responsive Design | Agile | Scrum
-
-***My Professional Skills:***<br>
-Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
-
-***Do I Sound Like a Good Fit For Your Team?***
-<br>
-Get in touch with me at abhishekmajumder052@gmail.com or through my linkedIn (link above).
-
-
-
 <p align="center">
   <span align="center" class="d-flex">
     <img title="PHP" alt="PHP" alt="HTML" height=40 src="https://img.icons8.com/officel/50/000000/php-logo.png"/>
@@ -53,5 +27,26 @@ Get in touch with me at abhishekmajumder052@gmail.com or through my linkedIn (li
   </span>
 </p>
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-majumder-140baa77/)
+[![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abhishekmajumder052@gmail.com)
+<!-- [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/CV/Ahmed%20Tohamy%20Resume%20-%20Web%20Developer%20v2.1.pdf)
+-->
 
+<img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
+***About Me:***<br>
+I'm a ***Full Stack Web Developer and Automation Expert|Technical Lead***, I also have a strong backend experience and I also have a strong business management background especially in MNC's. I am a Technical Interviewer also.
+<br>
+<br>
+I'm always eager to learn, open to change my way of thinking and implementing things, open to learning new technologies, frameworks, and development techniques every day!
+<br>
+
+***My Coding Skills:***<br>
+***PHP*** | ***Shell Scripting UNIX/Linux** | ***JavaScript*** | HTML | CSS | React.JS* |  BootStrap | ***Express.JS*** | ***Node.JS*** | SQL | Git | Github | ***MYSQL*** | VSCode | Code Linters | Heroku | Robto3T | MONGODB | REST API | JSON | JSX | Responsive Design | Agile | Scrum
+
+***My Professional Skills:***<br>
+Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
+
+***Do I Sound Like a Good Fit For Your Team?***
+<br>
+Get in touch with me at abhishekmajumder052@gmail.com or through my linkedIn (link above).
