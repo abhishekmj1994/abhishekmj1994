@@ -18,7 +18,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
     <img title="SQL" alt="SQL" height=40
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
-    <img title="Git" alt="Git" height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+    <img title="git" alt="git" height=40 src="https://img.icons8.com/color/96/000000/git.png"/>
     <img title="Github" alt="Github" height=40 src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png">
     <img title="Heroku" alt="Heroku" height=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg">
   </span>
