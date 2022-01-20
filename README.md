@@ -26,8 +26,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-majumder-140baa77/)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abhishekmajumder052@gmail.com)
-<!-- [![Resume](https://img.shields.io/badge/-Resume-black)](https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/CV/Ahmed%20Tohamy%20Resume%20-%20Web%20Developer%20v2.1.pdf)
--->
 
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
 
@@ -39,7 +37,7 @@ I'm always eager to learn, open to change my way of thinking and implementing th
 <br>
 
 ***My Coding Skills:***<br>
-***PHP*** | ***Shell Scripting UNIX/Linux** | ***JavaScript*** | HTML | CSS | React.JS* |  BootStrap | ***Express.JS*** | ***Node.JS*** | SQL | Git | Github | ***MYSQL*** | VSCode | Code Linters | Heroku | Robto3T | MONGODB | REST API | JSON | JSX | Responsive Design | Agile | Scrum
+***PHP*** | ***Shell Scripting UNIX/Linux** | ***JavaScript*** | ***HTML*** | **CSS** | React.JS |  BootStrap | Express.JS | Node.JS | ***SQL*** | Git | Github | ***MYSQL*** | VSCode | Code Linters | Heroku | Robto3T | MONGODB | REST API | JSON | JSX | Responsive Design | Agile | Scrum
 
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
